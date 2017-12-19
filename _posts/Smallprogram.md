@@ -86,7 +86,7 @@ getUserInfo: function (callback) {
 }
                 }
               })
-            }
+           }
           });
         }
       }
