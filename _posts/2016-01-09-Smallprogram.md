@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "如何获取用户的信息"
-date: 2016-01-09 11:15:06 
+date: 2016-01-09 
 description: "小程序的使用"
 tag: 小程序
 
