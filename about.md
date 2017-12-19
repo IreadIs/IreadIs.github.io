@@ -11,7 +11,7 @@ title: 关于我
 <p>
 
 所在公司
-<a target="_blank" href="https://www.talkingdata.com/"> TalkingData </a>
+<a target="_blank" href="https://www.talkingdata.com/"> 北京博卡软件开发有限公司 </a>
 是一个互联网软件开发公司，无论你是运营、产品、开发 或者是App终端用户都可以了解下我们公司。
 <p>
 <h3> 我们的博客 </h3>   
