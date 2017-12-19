@@ -53,8 +53,12 @@ tag: 工具
 >* git add .   （全部添加到暂存区）    
 >* git commit -m ' first commit'  （提交暂存区的记录到本地仓库）     
 
+### 游戏
+>*  (HEAD detached at analytics_v2)   
+>*  dev
+>*  master
 
-### 其它   
+### 其它   
 
 git branc 查看时如出现
 
@@ -67,5 +71,5 @@ git branc 查看时如出现
 
 <br>
 
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/07/GitTutorial/)     
+转载来自：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/07/GitTutorial/)     
 
