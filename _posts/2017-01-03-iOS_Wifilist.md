@@ -138,8 +138,8 @@ NEHotspotNetwork 里有如下信息：
 
 
 下面付一张来自 [TalkingData 对iOS操作系统的统计报表](https://www.talkingdata.com/index/#/device/os/zh_CN)，时间：2017-01-03
-
-<img src="/images/posts/Wifilist/systemVersion.png" height="280" width="600">  
+百度(http://www.baidu.com)
+<img src="/images/posts/Wifilist/systemVersion.png" height="280" width="600">  
 
 ### Q&A
 
