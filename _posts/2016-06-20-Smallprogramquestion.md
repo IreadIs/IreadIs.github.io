@@ -44,3 +44,7 @@ tag: 小程序
 >* 2、组件封装不同？
 >* 小程序独立出来了很多原生APP的组件，在HTML需要模拟才能实现的功能，小程序里可以直接调用组件
 >* 以上信息解决了咱们在前文提到的第一个问题
+
+<br>
+
+转载请注明：[于晓雷的博客](https://ireadis.github.io/) » [点击阅读原文](https://ireadis.github.io/2016/06/Smallprogramquestion/) 
