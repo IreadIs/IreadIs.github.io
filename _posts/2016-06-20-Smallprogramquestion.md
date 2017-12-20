@@ -14,7 +14,9 @@ tag: 小程序
 * 3、怎样将后台获取到的数据展示到前台？
 
 ### 小程序的基本知识
-	小程序的视图容器包含`view`、`scroll-view`、`swiper`、`movable-area`、`cover-view`标签，最后两个标签是我最近才补充上的。在开发小程序的过程中最常用的标签就是`view`。下面是`view`标签的用法
+	小程序的视图容器包含`view`、`scroll-view`、`swiper`、`movable-area`、`cover-view`标签，最后两个标签是我最近才补充上的。
+
+	在开发小程序的过程中最常用的标签就是`view`。下面是`view`标签的用法
 	 <view class="section">
 	  <view class="section__title">flex-direction: row</view>
 	  <view class="flex-wrp" style="flex-direction:row;">
@@ -34,7 +36,7 @@ tag: 小程序
 
 	效果图如下：
 
-<img src="/images/posts/codeless/calendar.png" height="300" width="600"> 
+<img src="/images/posts/codeless/calendar.png" height="414" width="736"> 
 
 >* 在上面的示例可以看出小程序的布局跟传统的html布局是不一样的，
 >* 1、开发语言不同？
