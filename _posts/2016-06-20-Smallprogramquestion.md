@@ -36,7 +36,7 @@ tag: 小程序
 
 	效果图如下：
 
-<img src="/images/posts/codeless/calendar.png" height="414" width="736"> 
+<img src="/images/posts/codeless/calendar.png" height="736" width="414"> 
 
 >* 在上面的示例可以看出小程序的布局跟传统的html布局是不一样的，
 >* 1、开发语言不同？
