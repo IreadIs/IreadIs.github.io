@@ -31,7 +31,9 @@ tag: 小程序
 >*              var retdata = res.data.data;
 >*              openid = retdata.openid,
 >*                sessionkey = retdata.session_key;
-### 设置用户信息
+
+**设置用户信息**
+
 >*              wx.getUserInfo(
 >*                 success: function (res) {
 >*                  encryptedData = res.encryptedData;
@@ -68,7 +70,7 @@ tag: 小程序
 >*     success: function () { 
 >*       wx.openSetting({
 >*         success: function (res) {
->*           if (!res.authSetting["scope.userInfo"] || !res.authSetting["scope.userLocation"]) {
+>*         if (!res.authSetting["scope.userInfo"] || !res.authSetting["scope.userLocation"]) {
 >*             wx.getUserInfo({})
 >*           }
 >*         }
